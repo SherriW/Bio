@@ -54,7 +54,7 @@ typings/
 .eslintcache
 
 # Optional Mac file exclusions
-.DS_Code
+.DS_Store
 
 # Microbundle cache
 .rpt2_cache/
